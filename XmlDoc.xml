@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+<student>
+	<name>Priyanka</name>
+	<email>priyanka@gmail.com</email>
+	<mobile>123456</mobile>
+	<address>pune</address>
+</student>
+</students>
