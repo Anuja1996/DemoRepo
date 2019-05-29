@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25785" started-at="2019-05-28T13:49:45Z" finished-at="2019-05-28T13:50:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25785" started-at="2019-05-28T13:49:45Z" finished-at="2019-05-28T13:50:11Z">
+      <class name="com.qa.pms.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.pms.testcases.LoginPageTest@2ff4f00f]" name="setUp" is-config="true" duration-ms="11140" started-at="2019-05-28T19:19:45Z" finished-at="2019-05-28T19:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateBlankUserPassword()[pri:11, instance:com.qa.pms.testcases.LoginPageTest@2ff4f00f]" name="validateBlankUserPassword" duration-ms="12442" started-at="2019-05-28T19:19:57Z" finished-at="2019-05-28T19:20:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBlankUserPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.pms.testcases.LoginPageTest@2ff4f00f]" name="tearDown" is-config="true" duration-ms="2146" started-at="2019-05-28T19:20:09Z" finished-at="2019-05-28T19:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.pms.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
